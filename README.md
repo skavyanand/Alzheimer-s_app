@@ -147,7 +147,3 @@ body {
 Developed as a postgraduate final year project for Alzheimer’s stage detection using deep learning and Flask.
 
 ```
-
----
-
-Would you like me to also generate a **requirements.txt** file automatically so you can install everything in one go?
