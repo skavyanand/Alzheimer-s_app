@@ -1,7 +1,3 @@
-Got it 👍 — here’s a **README.md** file tailored for your Alzheimer Stage Detection Flask project. It explains setup, usage, and features clearly.
-
----
-
 ## 📄 README.md
 
 ```markdown
@@ -135,15 +131,3 @@ body {
 
 ---
 
-## 📌 Future Improvements
-- Add patient name/ID fields to reports
-- Log predictions to CSV for tracking
-- Enhance UI with Bootstrap or TailwindCSS
-- Deploy on cloud (Heroku, AWS, Azure)
-
----
-
-## 👨‍💻 Author
-Developed as a postgraduate final year project for Alzheimer’s stage detection using deep learning and Flask.
-
-```
